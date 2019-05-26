@@ -58,12 +58,7 @@ $welcome = array(
 <span>系统管理目录</span> 当前：'.$cur_dir.'。建议您安装完成后，修改目录名（可直接修改）。<br />
 <span>数据安全</span>'.$message
 			 ,
-	'相关说明'=>'<span>商业用户授权</span>
-如果您现在还未正式购买商业用户授权，请您及时联系我们,以获得我们专业的技术支持服务！<br />
-<span>技术支持服务</span><a href="http://suo.im/3I0gTv">&#x963F;&#x83AB;&#x4E4B;&#x5BB6;</a>
-<br>
-<span>售前咨询</span> Q Q：<a href="tencent://message/?uin=465420700&Site=www.mymps.com.cn&Menu=yes" target="_blank"><b style="color:#f30">465420700(点击交谈)</b></a> TEL：0371-65366238
-			',
+	
 	'服务器相关'=>'
 		<div><span>服务器环境:</span>'.$_SERVER['SERVER_SOFTWARE'].'</div>
 		<div><span>服务器系统:</span>'.PHP_OS.'</div>
