@@ -1,0 +1,1 @@
+$('#foots').html('Powered by EnjoySix Dianlei');

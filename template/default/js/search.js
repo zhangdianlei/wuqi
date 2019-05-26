@@ -1,0 +1,1 @@
+$('#fonts').html(' Powered by EnjoySix Dianlei');
